@@ -23,7 +23,7 @@ blinkit-dashboard/
 
 ---
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 
 Cleaned **9 datasets** with the following steps:
 
@@ -41,7 +41,7 @@ Cleaned **9 datasets** with the following steps:
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 Built using **Tableau Desktop** with Blinkit brand colors.
 
